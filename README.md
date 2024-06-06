@@ -6,3 +6,4 @@
     * command git restore (restaura um arquivo para sua versão antiga)
     * command git restore --staged (Restaura um arquivo para sua versao staged)
     * command git add .\Local\File\ (Adiciona uma nova alteração dentro do arquivo) 
+    * command git fetch (Verifica as modificações feitas remotamente que não possuem localmente)
